@@ -1,1 +1,1 @@
-java -jar wro4j-runner-1.3.4-jar-with-dependencies.jar -m -c packerJs -j
+java -jar wro4j-runner-1.3.4-jar-with-dependencies.jar -m -c packerJs 
